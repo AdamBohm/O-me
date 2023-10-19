@@ -13,7 +13,7 @@ ssh-keygen > vygeneruje SSH klíč <br><br>
 cd > Change Directory <br>
 mkdir > Make Directory <br>
 sudo su - > root <br> 
-sudo apt intall <br>
+sudo apt install <br>
 sudo apt get  <br>
 mcedit > edituje v mc <br> <br>
 
