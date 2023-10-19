@@ -4,8 +4,8 @@ git push ![branch] <br>
 git config --global "user.email" <br> 
 git config --global "user.name" <br>
 git add . = přídá soubor do githubu <br> 
-git commit - přidá komentář ke změnám <br> <br>
-
+git commit - přidá komentář ke změnám <br> 
+git pull - synchronizace <br>
 # Linux 
 cd- Change Directory <br>
 mkdir- Make Directory <br>
